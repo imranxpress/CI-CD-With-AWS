@@ -33,8 +33,7 @@ There are a number of benefits to have such automated CI/CD for any web or mobil
 #     Serverless application, Static Web applications, JS framework based web Applications and NoSQL based web applications. 
 
 ###  Please follow one of my previous article linked bellow with step by step process to create a super easy CI/CD pipeline for Web or Mobile development.
-
-https://www.linkedin.com/pulse/serverless-development-aws-amplify-partha-sarathi-kundu-he-his-/
+ ### [Serverless Development with AWS Amplify 🛠 Part: 01](https://github.com/imranxpress/Serverless-Development-in-AWS-Part01).
 
 📌 With that I am going to share my Third and super easiest CI/CD pipeline creation with a cool service from AWS called "CodeStar" which includes CodeCommit, CodeArtifact, CodeBuild, CodeDeploy and CodePipeline to create an automated and fully agile CI/CD for Web and Mobile application development. It support a variety of types of applications sample to start with. 
 
